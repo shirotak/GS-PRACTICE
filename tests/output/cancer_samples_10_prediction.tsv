@@ -1,0 +1,11 @@
+	KNN	SVC	RF	LR	Cons	Details	TGS	TGS_high	TGS_score1	TGS_score2	TGS_high1	TGS_high2
+cancer_sample02	APB	APB	APB	APB	APB	APB:4	high	1	8	8	1	1
+cancer_sample04	APB	APB	APB	APB	APB	APB:4	high	1	8	8	1	1
+cancer_sample05	APB	APB	APB	APB	APB	APB:4	high	1	8	8	1	1
+cancer_sample10	APB	APB	APB	AGE	APB	APB:3,AGE:1	high	1	6	6	1	1
+cancer_sample01	HRD	HRD	HRD	HRD	HRD	HRD:4	low	0	0	4	0	0
+cancer_sample08	HRD	HRD	HRD	HRD	HRD	HRD:4	low	0	0	4	0	0
+cancer_sample03	AGE	AGE	AGE	AGE	AGE	AGE:4	low	0	0	0	0	0
+cancer_sample06	AGE	AGE	AGE	AGE	AGE	AGE:4	low	0	0	0	0	0
+cancer_sample09	AGE	AGE	AGE	AGE	AGE	AGE:4	low	0	0	0	0	0
+cancer_sample07	AGE	AGE	APB	AGE	AGE	AGE:3,APB:1	low	0	2	2	0	0
