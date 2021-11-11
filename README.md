@@ -6,7 +6,7 @@ Overview of the pipeline
 ___
 ## Requirements
 ### Python >= 3.8
-- Please see Requirements
+- Please see requirements.txt
 ### R >= 4.0
 - MutationalPatterns
 - BSgenome.Hsapiens.UCSC.hg19  
