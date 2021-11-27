@@ -9,7 +9,7 @@ def read_requirements(fname):
 
 setuptools.setup(
     name="GS-PRACTICE",
-    version="0.0.1",
+    version="0.0.9",
     author="shirotak",
     author_email="tshiro@kuhp.kyoto-u.ac.jp",
     description="Tumor genomic subtyping using mutational signatures",

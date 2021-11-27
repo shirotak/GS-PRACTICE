@@ -1,8 +1,8 @@
+python >= 3.7
+matplotlib
 numba
 numpy
 pandas
-rpy2
 scikit-learn
 scipy
-seaborn
 umap-learn
