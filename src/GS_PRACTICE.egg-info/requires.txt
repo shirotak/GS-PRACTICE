@@ -1,8 +1,0 @@
-python>=3.7
-matplotlib
-numba
-numpy
-pandas
-scikit-learn
-scipy
-umap-learn

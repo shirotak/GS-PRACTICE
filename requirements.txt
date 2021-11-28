@@ -1,8 +1,6 @@
-python >= 3.7
+joblib
 matplotlib
-numba
 numpy
 pandas
-scikit-learn
-scipy
-umap-learn
+scikit_learn
+umap_learn

@@ -10,8 +10,8 @@ import joblib
 
 # specify library directory
 script_dir=os.path.dirname(os.path.abspath(__file__))
-lib_dir=script_dir+"/../lib/"
-out_dir=script_dir+"/../lib/"
+lib_dir=script_dir+"./"
+out_dir=script_dir+"./"
 
 def main():
     # import tcga data & labels
@@ -68,7 +68,6 @@ def main():
         max_features= 'auto',
         max_leaf_nodes= None,
         min_impurity_decrease= 0.0,
-        min_impurity_split= None,
         bootstrap= True,
         oob_score= False,
         n_jobs= None,
