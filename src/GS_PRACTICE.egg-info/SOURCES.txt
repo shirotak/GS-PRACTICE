@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+src/GS_PRACTICE.egg-info/PKG-INFO
+src/GS_PRACTICE.egg-info/SOURCES.txt
+src/GS_PRACTICE.egg-info/dependency_links.txt
+src/GS_PRACTICE.egg-info/entry_points.txt
+src/GS_PRACTICE.egg-info/top_level.txt
+src/gspractice/__init__.py
+src/gspractice/gspractice.py
+src/gspractice/makeclfs.py
+src/gspractice/run.py
+src/gspractice/run_gspractice.py

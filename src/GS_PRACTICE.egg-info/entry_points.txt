@@ -1,0 +1,3 @@
+[console_scripts]
+gs-practice = gspractice.run_gspractice:runAsStandalone
+
