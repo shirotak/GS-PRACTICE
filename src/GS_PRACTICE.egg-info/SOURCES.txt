@@ -13,3 +13,17 @@ src/gspractice/gspractice.py
 src/gspractice/makeclfs.py
 src/gspractice/run.py
 src/gspractice/run_gspractice.py
+src/lib/KNN.joblib
+src/lib/LRC.joblib
+src/lib/RFC.joblib
+src/lib/SVC.joblib
+src/lib/TCGA_7181_cluster_annotations.tsv
+src/lib/TCGA_7181_cluster_colors.tsv
+src/lib/TCGA_7181_cluster_numbers.tsv
+src/lib/TCGA_7181_df_mutsig_log10.tsv
+src/lib/TCGA_7181_knn_n5_dis.joblib
+src/lib/TCGA_7181_lrc_c1.joblib
+src/lib/TCGA_7181_rfc_ne100.joblib
+src/lib/TCGA_7181_svc_c1_g01.joblib
+src/lib/UMAP_projector.joblib
+src/lib/cosmic_v2_signatures.tsv

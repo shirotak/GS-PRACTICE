@@ -1,2 +1,2 @@
-src/lib/*
-src/gspractice/*
+include src/lib/*
+include src/gspractice/*
