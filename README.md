@@ -91,17 +91,17 @@ bash test_run.sh
 ```
 This will generates the following files in the "tests/output" directory
 -  [cancer_sample01_decomposed.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_sample01_decomposed.tsv)
--  [cancer_sample01_prediction.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_sample01_prediction.txt)
+-  [cancer_sample01_prediction.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_sample01_prediction.tsv)
 -  [cancer_sample01_umap.png](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_sample01_umap.png)
 <img src=https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/TCGA_mutect2_random100_1_umap.png width="350">
 
 -  [cancer_samples_10_decomposed.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_samples_10_decomposed.tsv)
--  [cancer_samples_10_prediction.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_samples_10_prediction.txt)
+-  [cancer_samples_10_prediction.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_samples_10_prediction.tsv)
 -  [cancer_samples_10_umap.png](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_samples_10_umap.png)
 <img src=https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/cancer_samples_10_umap.png width="350">  
 
 -  [TCGA_mutect2_random100_1_decomposed.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/TCGA_mutect2_random100_1_decomposed.tsv)
--  [TCGA_mutect2_random100_1_prediction.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/TCGA_mutect2_random100_1_prediction.txt)
+-  [TCGA_mutect2_random100_1_prediction.tsv](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/TCGA_mutect2_random100_1_prediction.tsv)
 -  [TCGA_mutect2_random100_1_umap.png](https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/TCGA_mutect2_random100_1_umap.png)
 <img src=https://github.com/shirotak/GS-PRACTICE/blob/main/tests/output/TCGA_mutect2_random100_1_umap.png width="350">  
 
