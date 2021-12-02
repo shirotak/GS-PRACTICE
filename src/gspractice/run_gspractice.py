@@ -24,7 +24,7 @@ import umap
 
 # specify library directory
 script_dir=os.path.dirname(os.path.abspath(__file__))
-lib_dir=script_dir+"/../lib/"
+lib_dir=script_dir+"/data/"
 
 
 # ----- Begin code for this module. -----

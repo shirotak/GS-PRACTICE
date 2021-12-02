@@ -1,2 +1,7 @@
-include src/lib/*
+include requirements.txt
+include r_requirements.txt
+include tests/*
+include tests/input/*
+include tests/output/*
 include src/gspractice/*
+include src/gspractice/data/*

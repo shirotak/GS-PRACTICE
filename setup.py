@@ -5,7 +5,7 @@ with open("README.md", "r", encoding='utf-8') as f:
 
 setuptools.setup(
     name="GS-PRACTICE",
-    version="0.1.2",
+    version="0.1.4",
     author="shirotak",
     author_email="tshiro@kuhp.kyoto-u.ac.jp",
     description="Tumor genomic subtyping using mutational signatures",
@@ -15,11 +15,12 @@ setuptools.setup(
     project_urls={
         "Bug Tracker": "https://github.com/shirotak/GS-PRACTICE/issues",
     },
-    package_dir={"": "src"},
-    packages=setuptools.find_packages(where="src"),
-    include_package_data=True,
+    packages=['gspractice'],
+    package_dir={"gspractice":"src/gspractice"},
+    package_data={'gspractice':['data/*']},
     entry_points={
         'console_scripts': ['gs-practice = gspractice.run_gspractice:runAsStandalone',
+            'gs-makeclfs = gspractice.makeclfs:main'
             ]
     },
     python_requires=">=3.7",
