@@ -1,5 +1,6 @@
 # GS-PRACTICE (Genomic Subtyping and Predictive Response Analysis for Cancer Tumor ICi Efficacy)
 Tumor genomic subtyping tool based on mutational signatures for cancer samples.  
+See [the corresponding paper](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330v2) for details.
 ___
 Overview of the pipeline  
 <img src=https://github.com/shirotak/GS-PRACTICE/blob/main/documentation/Pipeline_overview.png width="500">  
@@ -122,4 +123,4 @@ python src/gspractice/run_gspractice.py -i {input_file} -o {output_prefix}
 ___
 ## Citation
 Currently, the corresonding paper is published as a preprint in MedRxiv.  
-[Tumor genomic subtypes orthogonal to mutation burden predict the efficacy of immune checkpoint therapy](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330v2)
+[Mutation burden-orthogonal tumor genomic subtypes delineate responses to immune checkpoint therapy](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330v2)
