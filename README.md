@@ -121,5 +121,5 @@ python src/gspractice/run_gspractice.py -i {input_file} -o {output_prefix}
 ```
 ___
 ## Citation
-Currently, the software is being published as a preprint in MedRxiv.  
-[Tumor genomic subtypes orthogonal to mutation burden predict the efficacy of immune checkpoint therapy](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330v1)
+Currently, the corresonding paper is published as a preprint in MedRxiv.  
+[Tumor genomic subtypes orthogonal to mutation burden predict the efficacy of immune checkpoint therapy](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330v2)

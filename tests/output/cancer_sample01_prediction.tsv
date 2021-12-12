@@ -1,2 +1,2 @@
-	KNN	SVC	RF	LR	Cons	Details	TGS	TGS_high	TGS_score1	TGS_score2	TGS_high1	TGS_high2
-cancer_sample01	HRD	HRD	HRD	HRD	HRD	HRD:4	low	0	0	4	0	0
+	KNN	SVC	RF	LR	TGS	Details	irGS_count	irGS
+cancer_sample01	HRD	HRD	AGE	HRD	HRD	HRD:3,AGE:1	0	0
