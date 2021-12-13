@@ -5,7 +5,7 @@ with open("README.md", "r", encoding='utf-8') as f:
 
 setuptools.setup(
     name="GS-PRACTICE",
-    version="0.1.4",
+    version="0.1.3",
     author="shirotak",
     author_email="tshiro@kuhp.kyoto-u.ac.jp",
     description="Tumor genomic subtyping using mutational signatures",

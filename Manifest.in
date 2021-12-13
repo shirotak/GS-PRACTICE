@@ -1,3 +1,7 @@
+include LICENSE
+include README.md
+include setup.py
+include documentation/*
 include requirements.txt
 include r_requirements.txt
 include tests/*
