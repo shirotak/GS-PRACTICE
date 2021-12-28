@@ -46,7 +46,7 @@ pip install rpy2
 ___
 ## Preparations
 #### Make classifiers in your environment
-After installing the requirements, you should configure classifiers and umap projector in your environment and save them as joblib files.
+After installing the requirements, you should configure classifiers and umap projector in your environment and save them as joblib files.  
 By default, joblib files named KNN, SVC, RFC, LRC, and UMAP_projector are generated in `gspractice/data` directory.
 ```
 gs-makeclfs
