@@ -3,3 +3,7 @@ MutationalPatterns >= 1.12
 BSgenome.Hsapiens.UCSC.hg38 >= 1.4.1
 BSgenome.Hsapiens.UCSC.hg19 >= 1.4.0
 
+## if you use conda, for example, 
+# conda install -c conda-forge r-base
+# conda install -c bioconda bioconductor-mutationalpatterns
+# conda install -c bioconda bioconductor-bsgenome.hsapiens.ucsc.hg38

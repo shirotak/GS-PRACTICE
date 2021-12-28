@@ -2,7 +2,7 @@
 input_data="../../tests/input/cancer_sample01.vcf"
 genome_version="hg38"
 sample_names="sample01" # or NULL
-cosmic="../../../lib/cosmic_v2_signatures.tsv"
+cosmic="../../src/gspractice/data/cosmic_v2_signatures.tsv"
 # import library
 library(MutationalPatterns)
 if (genome_version=="hg38"){ref_genome <-"BSgenome.Hsapiens.UCSC.hg38"}

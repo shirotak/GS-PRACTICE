@@ -2,7 +2,7 @@
 input_data="../input/TCGA_mutect2_random100_1.maf"
 genome_version="hg38"
 #sample_names=NULL
-cosmic="../../src/lib/cosmic_v2_signatures.tsv"
+cosmic="../../src/gspractice/data/cosmic_v2_signatures.tsv"
 # R script for MAF file
 input_data="../input/TCGA_mutect2_random100_1.maf"
 genome_version="hg38"

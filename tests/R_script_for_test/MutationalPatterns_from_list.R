@@ -3,7 +3,7 @@ input_data="./test_path_to_vcf_files.list"
 genome_version="hg38"
 sample_names=NULL # or
 #sample_names=readLines("../../tests/input/sample_names_10.list")
-cosmic="../../src/lib/cosmic_v2_signatures.tsv"
+cosmic="../../src/gspractice/data/cosmic_v2_signatures.tsv"
 # import library
 library(MutationalPatterns)
 if (genome_version=="hg38"){ref_genome <-"BSgenome.Hsapiens.UCSC.hg38"}
