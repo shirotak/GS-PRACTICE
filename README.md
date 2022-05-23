@@ -22,7 +22,7 @@ Please see requirements.txt for detailed versions.
 - BSgenome.Hsapiens.UCSC.hg38  
 - BSgenome.Hsapiens.UCSC.hg19
 
-Please see r_requirements.txt for detailed versions.  
+Please see `r_requirements.txt` for detailed versions.  
 These have been tested on mac OSX and Linux.
 ___
 ## Installation
@@ -39,7 +39,7 @@ Then,
 ```
 pip install -r requirements.txt
 ```
-After install R enviroments,
+After install R enviroments (see `r_requirements.txt`),
 ```
 pip install rpy2
 ```
