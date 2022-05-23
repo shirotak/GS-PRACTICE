@@ -26,7 +26,12 @@ Please see `r_requirements.txt` for detailed versions.
 These have been tested on mac OSX and Linux.
 ___
 ## Installation
-To avoid package dependency issues, I recommend installation in a virtual environment created with anaconda, miniconda, miniforge, pyenv etc.  
+To avoid package dependency issues, I recommend installation in a virtual environment created with anaconda, miniconda, miniforge, pyenv etc.   For example,
+```
+conda create -n GSP python=3.7.6
+conda activate GSP
+```
+After downloading this repository,
 ```
 cd GS-PRACTICE
 python setup.py install
