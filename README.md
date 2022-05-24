@@ -26,9 +26,9 @@ Please see `r_requirements.txt` for detailed versions.
 These have been tested on mac OSX and Linux.
 ___
 ## Installation
-To avoid package dependency issues, I recommend installation in a virtual environment created with anaconda, miniconda, miniforge, pyenv etc.   For example,
+To avoid package dependency problems, I recommend installation in a virtual environment created with anaconda, miniconda, miniforge, pyenv etc.   For example,
 ```
-conda create -n GSP python=3.7.6
+conda create -n GSP python=3.7
 conda activate GSP
 ```
 After downloading this repository,
@@ -44,7 +44,7 @@ Then,
 ```
 pip install -r requirements.txt
 ```
-After install R enviroments (see `r_requirements.txt`),
+After installing required R packages (see `r_requirements.txt`),
 ```
 pip install rpy2
 ```
