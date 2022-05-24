@@ -4,6 +4,7 @@ BSgenome.Hsapiens.UCSC.hg38 >= 1.4.1
 BSgenome.Hsapiens.UCSC.hg19 >= 1.4.0
 
 ## if you use conda, for example, 
-# conda install -c conda-forge r-base=4.0.3 # for python 3.7.6
+# conda install -c conda-forge r-base=4.0
 # conda install -c bioconda bioconductor-mutationalpatterns
 # conda install -c bioconda bioconductor-bsgenome.hsapiens.ucsc.hg38
+## The implementation of MutationalPatterns in the conda virtual environment seems to be prone to package dependency problems.　I have checked that it works with r-base-4.0.3/python=3.7.6 and r-base=4.0.5/python=3.8.8 on Linux, and r-base=4.0/python3.7 and r-base=4.0/python3.8 on MacOSX.
