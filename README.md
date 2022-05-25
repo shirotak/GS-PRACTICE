@@ -16,7 +16,7 @@ ___
 - matplotlib
 - rpy2   
   
-Please see requirements.txt for detailed versions.
+Please see `requirements.txt` for detailed versions.
 ### R >= 3.6
 - MutationalPatterns
 - BSgenome.Hsapiens.UCSC.hg38  
