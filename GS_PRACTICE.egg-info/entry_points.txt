@@ -1,0 +1,4 @@
+[console_scripts]
+gs-makeclfs = gspractice.makeclfs:main
+gs-practice = gspractice.run_gspractice:runAsStandalone
+
