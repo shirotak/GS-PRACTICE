@@ -127,6 +127,10 @@ python src/gspractice/run_gspractice.py -h
 python src/gspractice/run_gspractice.py -i {input_file} -o {output_prefix}
 ```
 ___
+## License
+Copyright (c) 2021 Shiro Takamatsu (Kyoto University). See [LICENSE](https://github.com/shirotak/GS-PRACTICE/blob/main/LICENSE).  
+This software is currently prohibited for commercial use. If you wish to use the Software for commercial or for-profit purposes, please contact [the author](tshiro@kuhp.kyoto-u.ac.jp).
+___
 ## Citation
 Currently, the corresonding paper is published as a preprint in MedRxiv.  
-[Mutation burden-orthogonal tumor genomic subtypes delineate responses to immune checkpoint therapy](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330v2)
+[Mutation burden-orthogonal tumor genomic subtypes delineate responses to immune checkpoint therapy](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330)
