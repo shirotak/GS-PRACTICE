@@ -132,5 +132,8 @@ Copyright (c) 2021 Shiro Takamatsu (Kyoto University). See [LICENSE](https://git
 This software is currently prohibited for commercial use. If you wish to use the Software for commercial or for-profit purposes, please contact [the author](tshiro@kuhp.kyoto-u.ac.jp).
 ___
 ## Citation
-Currently, the corresonding paper is published as a preprint in MedRxiv.  
-[Mutation burden-orthogonal tumor genomic subtypes delineate responses to immune checkpoint therapy](https://www.medrxiv.org/content/10.1101/2021.10.03.21264330)
+Mutation burden-orthogonal tumor genomic subtypes delineate responses to immune checkpoint therapy  
+Journal for ImmunoTherpy of Cancer. 2022 Jul;10(7):e004831.  
+http://dx.doi.org/10.1136/jitc-2022-004831.  
+PMID:35868660.  
+DOI:10.1136/jitc-2022-004831.  
