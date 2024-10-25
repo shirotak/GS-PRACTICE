@@ -1,0 +1,56 @@
+# Mac General
+.DS_Store
+.Trashes
+Icon
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+__pycache__/
+share/python-wheels/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+# logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# R
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Rproj.user/
+
